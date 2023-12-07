@@ -1,6 +1,6 @@
 import os
 import numpy as np
-clear = lambda: os.system('clear')
+clear = lambda: os.system('cls')
 
 global play
 play = '🔴'
